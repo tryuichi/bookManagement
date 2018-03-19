@@ -1,72 +1,71 @@
-'<?xml version="1.0" encoding="UTF-8"?>
-\n<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
-\n  <version>1.2</version>
-\n  <numberOfRecords>2</numberOfRecords>
-\n  <nextRecordPosition>0</nextRecordPosition>
-\n  <extraResponseData>
-\n&lt;facets&gt;
-\n  &lt;lst name=&quot;REPOSITORY_NO&quot;&gt;
-\n    &lt;int name=&quot;R100000001&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;R100000002&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;R100000074&quot;&gt;1&lt;/int&gt;
-\n  &lt;/lst&gt;
-\n  &lt;lst name=&quot;NDC&quot;&gt;
-\n    &lt;int name=&quot;0&quot;&gt;2&lt;/int&gt;
-\n  &lt;/lst&gt;
-\n  &lt;lst name=&quot;ISSUED_DATE&quot;&gt;
-\n    &lt;int name=&quot;2015&quot;&gt;2&lt;/int&gt;
-\n  &lt;/lst&gt;
-\n  &lt;lst name=&quot;LIBRARY&quot;&gt;
-\n    &lt;int name=&quot;京都府立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;佐賀県立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;国立国会図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;大阪市立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;大阪府立中央図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;宮崎県立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;岡山県立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;広島県立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;愛知県図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;東京都立中央図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;横浜市中央図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;沖縄県立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;滋賀県立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;福井県立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;福岡県立図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;長崎県立長崎図書館&quot;&gt;1&lt;/int&gt;
-\n    &lt;int name=&quot;鳥取県立図書館&quot;&gt;1&lt;/int&gt;
-\n  &lt;/lst&gt;
-\n&lt;/facets&gt;
-\n  </extraResponseData>
-\n  <records>
-\n    <record>
-\n      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
-\n      <recordPacking>string</recordPacking>
-\n      <recordData>
-\n&lt;srw_dc:dc xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot; xsi:schemaLocation=&quot;info:srw/schema/1/dc-v1.1 http://www.loc.gov/standards/sru/dc-schema.xsd&quot; xmlns:srw_dc=&quot;info:srw/schema/1/dc-v1.1&quot;&gt;
-\n  &lt;dc:title&gt;ITエンジニアのための機械学習理論入門&lt;/dc:title&gt;
-\n  &lt;dc:creator&gt;中井悦司著&lt;/dc:creator&gt;
-\n  &lt;dc:description&gt;参考文献: p252-254&lt;/dc:description&gt;
-\n  &lt;dc:publisher&gt;技術評論社&lt;/dc:publisher&gt;
-\n  &lt;dc:language&gt;jpn&lt;/dc:language&gt;
-\n&lt;/srw_dc:dc&gt;
-\n      </recordData>
-\n      <recordPosition>1</recordPosition>
-\n    </record>
-\n    <record>
-\n      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
-\n      <recordPacking>string</recordPacking>
-\n      <recordData>
-\n&lt;srw_dc:dc xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot; xsi:schemaLocation=&quot;info:srw/schema/1/dc-v1.1 http://www.loc.gov/standards/sru/dc-schema.xsd&quot; xmlns:srw_dc=&quot;info:srw/schema/1/dc-v1.1&quot;&gt;
-\n  &lt;dc:title&gt;ITエンジニアのための機械学習理論入門 = Machine Learning for Software Engineers&lt;/dc:title&gt;
-\n  &lt;dc:creator&gt;中井悦司 著&lt;/dc:creator&gt;
-\n  &lt;dc:subject&gt;機械学習&lt;/dc:subject&gt;
-\n  &lt;dc:description&gt;文献あり 索引あり&lt;/dc:description&gt;
-\n  &lt;dc:publisher&gt;技術評論社&lt;/dc:publisher&gt;
-\n  &lt;dc:language&gt;jpn&lt;/dc:language&gt;
-\n&lt;/srw_dc:dc&gt;
-\n      </recordData>
-\n      <recordPosition>2</recordPosition>
-\n    </record>
-\n  </records>
-\n</searchRetrieveResponse>
-\n'
+<?xml version="1.0" encoding="UTF-8"?>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>2</numberOfRecords>
+  <nextRecordPosition>0</nextRecordPosition>
+  <extraResponseData>
+<facets>
+  <lst name="REPOSITORY_NO">
+    <int name="R100000001">1</int>
+    <int name="R100000002">1</int>
+    <int name="R100000074">1</int>
+  </lst>
+  <lst name="NDC">
+    <int name="0">2</int>
+  </lst>
+  <lst name="ISSUED_DATE">
+    <int name="2015">2</int>
+  </lst>
+  <lst name="LIBRARY">
+    <int name="京都府立図書館">1</int>
+    <int name="佐賀県立図書館">1</int>
+    <int name="国立国会図書館">1</int>
+    <int name="大阪市立図書館">1</int>
+    <int name="大阪府立中央図書館">1</int>
+    <int name="宮崎県立図書館">1</int>
+    <int name="岡山県立図書館">1</int>
+    <int name="広島県立図書館">1</int>
+    <int name="愛知県図書館">1</int>
+    <int name="東京都立中央図書館">1</int>
+    <int name="横浜市中央図書館">1</int>
+    <int name="沖縄県立図書館">1</int>
+    <int name="滋賀県立図書館">1</int>
+    <int name="福井県立図書館">1</int>
+    <int name="福岡県立図書館">1</int>
+    <int name="長崎県立長崎図書館">1</int>
+    <int name="鳥取県立図書館">1</int>
+  </lst>
+</facets>
+  </extraResponseData>
+  <records>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>string</recordPacking>
+      <recordData>
+<srw_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="info:srw/schema/1/dc-v1.1 http://www.loc.gov/standards/sru/dc-schema.xsd" xmlns:srw_dc="info:srw/schema/1/dc-v1.1">
+  <dc:title>ITエンジニアのための機械学習理論入門</dc:title>
+  <dc:creator>中井悦司著</dc:creator>
+  <dc:description>参考文献: p252-254</dc:description>
+  <dc:publisher>技術評論社</dc:publisher>
+  <dc:language>jpn</dc:language>
+</srw_dc:dc>
+      </recordData>
+      <recordPosition>1</recordPosition>
+    </record>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>string</recordPacking>
+      <recordData>
+<srw_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="info:srw/schema/1/dc-v1.1 http://www.loc.gov/standards/sru/dc-schema.xsd" xmlns:srw_dc="info:srw/schema/1/dc-v1.1">
+  <dc:title>ITエンジニアのための機械学習理論入門 = Machine Learning for Software Engineers</dc:title>
+  <dc:creator>中井悦司 著</dc:creator>
+  <dc:subject>機械学習</dc:subject>
+  <dc:description>文献あり 索引あり</dc:description>
+  <dc:publisher>技術評論社</dc:publisher>
+  <dc:language>jpn</dc:language>
+</srw_dc:dc>
+      </recordData>
+      <recordPosition>2</recordPosition>
+    </record>
+  </records>
+</searchRetrieveResponse>
