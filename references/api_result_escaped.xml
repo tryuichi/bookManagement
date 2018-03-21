@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" version="2.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <channel>
+    <title>9784627077911 - 国立国会図書館サーチ OpenSearch</title>
+    <link>http://iss.ndl.go.jp/api/opensearch?isbn=9784627077911</link>
+    <description>Search results for isbn=9784627077911 </description>
+    <language>ja</language>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage></openSearch:itemsPerPage>
+    <item>
+      <title>Pythonで体験するベイズ推論</title>
+      <link>http://iss.ndl.go.jp/books/R100000074-I000697855-00</link>
+<description>
+<![CDATA[<p>森北出版,9784627077911</p>
+<ul><li>タイトル： Pythonで体験するベイズ推論</li>
+<li>タイトル（読み）： Python デ タイケンスル ベイズ スイロン</li>
+<li>責任表示： キャメロン・デビッドソン=ピロン著,</li>
+<li>NDC(9)： 417</li>
+</ul>]]>
+</description>
+      <author>キャメロン・デビッドソン=ピロン著,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000074-I000697855-00</guid>
+      <dc:title>Pythonで体験するベイズ推論</dc:title>
+      <dcndl:titleTranscription>Python デ タイケンスル ベイズ スイロン</dcndl:titleTranscription>
+      <dc:creator>キャメロン・デビッドソン=ピロン著</dc:creator>
+      <dc:publisher>森北出版</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2017-04</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784627077911</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB23378511</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC9">417</dc:subject>
+      <dcterms:description>参考文献: 章末</dcterms:description>
+      <rdfs:seeAlso rdf:resource="http://library.affrc.go.jp/api/QQ20553766"/>
+    </item>
+    <item>
+      <title>Pythonで体験するベイズ推論 : PyMCによるMCMC入門</title>
+      <link>http://iss.ndl.go.jp/books/R100000002-I028069720-00</link>
+<description>
+<![CDATA[<p>森北出版,9784627077911</p>
+<ul><li>タイトル： Pythonで体験するベイズ推論 : PyMCによるMCMC入門</li>
+<li>タイトル（読み）： パイソン デ タイケン スル ベイズ スイロン : パイエムシー ニ ヨル エムシーエムシー ニュウモン</li>
+<li>責任表示： キャメロン・デビッドソン=ピロン 著,玉木徹 訳,</li>
+<li>NDC(10)： 417</li>
+<li>NDC(9)： 417</li>
+</ul>]]>
+</description>
+      <author>キャメロン・デビッドソン=ピロン 著,玉木徹 訳,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000002-I028069720-00</guid>
+      <pubDate>Tue, 30 May 2017 09:00:00 +0900</pubDate>
+      <dc:title>Pythonで体験するベイズ推論 : PyMCによるMCMC入門</dc:title>
+      <dcndl:titleTranscription>パイソン デ タイケン スル ベイズ スイロン : パイエムシー ニ ヨル エムシーエムシー ニュウモン</dcndl:titleTranscription>
+      <dc:creator>キャメロン・デビッドソン=ピロン 著</dc:creator>
+      <dc:creator>玉木徹 訳</dc:creator>
+      <dc:publisher>森北出版</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2017</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784627077911</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22890877</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33589486</dc:identifier>
+      <dc:subject>ベイズ統計学--データ処理</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">MA211</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">417</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">417</dc:subject>
+      <dcterms:description>原タイトル: BAYESIAN METHODS FOR HACKERS</dcterms:description>
+      <dcterms:description>索引あり</dcterms:description>
+      <dcterms:description>NDC（9版）はNDC（10版）を自動変換した値である。</dcterms:description>
+      <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/028069720"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=10021400475210"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1190310925"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.jp/winj/opac/switch-detail-iccap.do?bibid=1152980821"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812108860"/>
+      <rdfs:seeAlso rdf:resource="https://www.hplibra.pref.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103103598"/>
+    </item>
+  </channel>
+</rss>
